@@ -2,6 +2,9 @@
 Changelog for package micro_ros_zephyr_apps
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 5.0.0 (2023-06-06)
 ------------------
 * Micro-ros connection manager on an stm32. Ported to zephyr from the Arduino apps example. (`#61 <https://github.com/micro-ROS/zephyr_apps/issues/61>`_) (`#62 <https://github.com/micro-ROS/zephyr_apps/issues/62>`_)
